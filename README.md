@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hung</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **astrophysics**
+- 🌱 I’m currently learning **astrophysics & Stock Market Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/etphy/etphy.git](https://github.com/etphy/etphy.git)
+
+- 💬 Ask me about **Physics & Crypto**
 
 - 📫 How to reach me **etphymath@gmail.com**
 
