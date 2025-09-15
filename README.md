@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hung</h1>
-<h3 align="center">⚡ Code Description: 'PS ratio.ipynb' (Getting Ticker of S&P500, calculating P/S Ratio and making histogram)</h3>
+<h3 align="center">⚡ Code Description
+- 'PS ratio.ipynb' (Getting Ticker of S&P500, calculating P/S Ratio and making histogram)</h3>
 
 - 🌱 I’m currently learning **astrophysics & Stock Market Analysis**
 
