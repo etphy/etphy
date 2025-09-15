@@ -5,6 +5,8 @@
 
 'Rule of 40 plot.ipynb' (Extract all software stocks from Excel file and make a scatter plot to evaluate the health and sustainability of SaaS stocks) </h3>
 
+'beta.ipynb' (Calculating beta & correlation with n-different asset) </h3>
+
 - 🌱 I’m currently learning **astrophysics & Stock Market Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/etphy/etphy.git](https://github.com/etphy/etphy.git)
