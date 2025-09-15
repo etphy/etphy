@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hung</h1>
-<h3 align="center">⚡ Code Description
-- 'PS ratio.ipynb' (Getting Ticker of S&P500, calculating P/S Ratio and making histogram)</h3>
+<h3 align="center">⚡ Code Description </h3>
+- 'PS ratio.ipynb' (Getting Ticker of S&P500, calculating P/S Ratio and making histogram)
+- 'Rule of 40 plot.ipynb' (Extract all software stocks from excel file and make scatter plot in order to evaluating the health and sustainability of SaaS stocks)
 
 - 🌱 I’m currently learning **astrophysics & Stock Market Analysis**
 
